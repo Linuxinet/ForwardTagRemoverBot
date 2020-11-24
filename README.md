@@ -5,7 +5,7 @@ A Simple Forward Tag remover Telegram Bot Made in Go.
 
 #### The Easy Way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Anandpskerala/ForwardTagRemoverBot/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Linuxinet/ForwardTagRemoverBot/tree/master)
 
 ##### Required Variables
 
@@ -13,7 +13,4 @@ A Simple Forward Tag remover Telegram Bot Made in Go.
 
 
 
-## Community
-
-- Telegram Support Chat : [@KeralasBots](https://telegram.dog/KeralasBots)
-- Telegram Updates Channel : [KeralaBotsNews](https://telegram.dog/KeralaBotsNews)
+## 
