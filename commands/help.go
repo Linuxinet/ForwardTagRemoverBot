@@ -22,17 +22,17 @@ func Help(b ext.Bot, u *gotgbot.Update) error {
 
 	helpButton[0][0] = ext.InlineKeyboardButton{
 		Text: "Source code",
-		Url:  "https://github.com/Anandpskerala/ForwardTagRemoverBot",
+		Url:  "https://github.com/Linuxinet/ForwardTagRemoverBot/",
 	}
 
 	helpButton[0][1] = ext.InlineKeyboardButton{
 		Text: "My Creater",
-		Url:  "https://telegram.dog/Anandpskerala",
+		Url:  "https://t.me/Linuxinet",
 	}
 
 	helpButton[1][0] = ext.InlineKeyboardButton{
-		Text: "How to create a bot like me?",
-		Url:  "https://www.youtube.com/watch?v=swg6un2N4Fk&feature=youtu.be",
+		Text: "Subscribe Our Youtube channel",
+		Url:  "https://youtube.com/linuxinetyt",
 	}
 
 	markup := ext.InlineKeyboardMarkup{InlineKeyboard: &helpButton}
